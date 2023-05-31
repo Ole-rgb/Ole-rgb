@@ -1,5 +1,13 @@
 ### 👨‍💻 Ole Rößler
 **`Student at Leibniz University Hannover`**
+
+I'm currently studying 'Informatik' (Bachelor of Science) and lookinf forward to gradiate in 2025. 
+
+
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
 <!--
 **Ole-rgb/Ole-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
