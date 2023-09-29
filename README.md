@@ -1,15 +1,21 @@
 ### 👨‍💻 Ole Rößler
 **`Student at Leibniz University Hannover`**
 
-I'm currently studying 'Informatik' (Bachelor of Science) and lookinf forward to gradiate in 2025. 
+Hello there! I am currently studying Computer Science (Bachelor of Science). I'm always eager to learn and collaborate on exciting projects. 
 
 
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 🌐 Website: [Link to Your Website or Blog]
+                      📧 Email: ole.nelson.r@gmail.com
+                      📚 LinkedIn: [Link to Your LinkedIn Profile]
+
 
 ---
 <details>
   <summary><h3>I'm currently learning</h3></summary>
   some text
 </details>
+
+
+
