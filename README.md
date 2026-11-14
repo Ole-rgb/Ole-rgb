@@ -14,11 +14,4 @@ of blitz, not particularly well (or you can [play my clone](https://ole-rgb.gith
 yourself). At home I look after too many plants, play League of Legends, and own a Zuriga espresso machine that I
 still can't get good latte art out of. Working on it.
 
-**Say hi**
-
-- 🌐 [oleroessler.com](https://oleroessler.com)
-- ♟️ [Lichess: Triumpfole](https://lichess.org/@/Triumpfole)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ole-r%C3%B6%C3%9Fler/)
-- 📧 ole@oleroessler.com
-
-The projects I'm happiest with are pinned below.
+**Say hi:** 🌐 [oleroessler.com](https://oleroessler.com) · ♟️ [Lichess](https://lichess.org/@/Triumpfole) · 💼 [LinkedIn](https://www.linkedin.com/in/ole-r%C3%B6%C3%9Fler/) · 📧 ole@oleroessler.com
